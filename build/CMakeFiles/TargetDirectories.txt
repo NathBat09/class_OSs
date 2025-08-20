@@ -1,0 +1,3 @@
+/home/natanael/class_OS/build/CMakeFiles/array_functions.dir
+/home/natanael/class_OS/build/CMakeFiles/edit_cache.dir
+/home/natanael/class_OS/build/CMakeFiles/rebuild_cache.dir
